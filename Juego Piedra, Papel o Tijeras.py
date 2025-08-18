@@ -1,6 +1,8 @@
 #Importa el módulo random para generar elecciones aleatorias de la computadora.
 
 import random
+
+#esta libreria esconde la opción en la partida multijugador
 import getpass
 
 lista = ["Piedra", "Papel", "Tijera"]
@@ -211,7 +213,7 @@ def menu_principal():
         else:
             print("Opción inválida, por favor intente de nuevo.")
 
-#Aqui se comprueba que el rchivo se este ejecutando directamente (no importado), 
+#Aqui se comprueba que el archivo se este ejecutando directamente (no importado), 
 # si es asi llama a la funcion menu:principal()que inicia la ejecucion 
 # del programa mostrando el menu principal y contrlar el flujo del juego
 if __name__ == "__main__":
