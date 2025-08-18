@@ -25,7 +25,7 @@ Luego el jugador puede elegir jugar más, ver estadisticas u ordenar salir.
 COMO EJECUTAR EL PROGRAMA
 1. Instalar Python 3.x en el equipo.
 2. Ejecutar el programa desde una terminal o consola con el comando: python nombre_del_archivo.py
-3. Seguir las instrucciones que aparecen en pantalla para navegar por los men�s y jugar.
+3. Seguir las instrucciones que aparecen en pantalla para navegar por los menús y jugar.
 
 
 PRINCIPALES FUNCIONALIDADES DEL CODIGO
@@ -54,6 +54,11 @@ ESTRUCTURA DEL REPOSITORIO:
 1. juego Piedra, Papel o Tijeras.py
 2. README.md
 3. Diagrama de flujo del programa
+
+CONCLUSIÓN
+Al realizar este proyecto de Piedra, Papel o Tijera, pude poner en práctica y consolidar conocimientos importantes de programación, como la creación de funciones, manejo de menús, validación de entradas y control de flujo. La implementación fue exitosa y el programa funciona correctamente tanto en modo contra computadora como en multijugador.
+
+Además, el manejo de estadísticas y repetición de partidas enriqueció la experiencia, permitiéndome entender mejor la importancia de organizar el código y manejar datos durante la ejecución. Este trabajo me brindó confianza y herramientas para afrontar proyectos futuros con mayor seguridad y planificación.
 
 Explicación : 
 [Ver video aquí](https://mailinternacionaledu-my.sharepoint.com/:v:/g/personal/wepanoragu_uide_edu_ec/Eb8eWNkIRMZAm_6PeT-YB3UBvBdnA4eqfzLMQ_GW2YFLoQ?e=4C8c3m)
