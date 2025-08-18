@@ -104,7 +104,7 @@ def jugar_partida(jugador1, jugador2, modo_multijugador):
         print(f"¡Gana {jugador2}!")
     return resultado
 
-#Esta función muestra un resumen y estadisticas de las partidas jugadas, aqui se inicializa un diccionario 
+#Esta función muestra un resumen y estadisticas de las partidas jugadas, aqui se inicializa un dicionario 
 # para contar las el resultado de las partidas, 
 
 def resumen_estadisticas(partidas_resultados, jugador1, jugador2):
@@ -125,9 +125,9 @@ def resumen_estadisticas(partidas_resultados, jugador1, jugador2):
     print(f"{jugador1}: ganó {totales['jugador1']} partidas, perdió {totales['jugador2']} partidas, empató {totales['empates']} partidas")
     print(f"{jugador2}: ganó {totales['jugador2']} partidas, perdió {totales['jugador1']} partidas, empató {totales['empates']} partidas")
 
-#Esta función gestiona las repeticiones de partidas segun la opción del usuario sobre cunatas jugar
+#Esta función gestiona las repeticiones de partidas segun la opción del usuario sobre cuantas se va a jugar
 #Crea una lista vacia para guardar el resultado de cada partida, en cada partida nueva imprime que partida se esta jugando
-#devuelve la lista con todo los resultados de las partids jugadas
+#devuelve la lista con todo los resultados de las partidas jugadas
 def jugar_repetido(jugador1, jugador2, num_partidas, modo_multijugador):
     resultados = []
     partidas_jugadas = 0
