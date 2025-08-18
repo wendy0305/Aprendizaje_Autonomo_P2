@@ -6,7 +6,7 @@ DESCRIPCIÓN
 Este proyecto es un juego clásico de Piedra, Papel o Tijera desarrollado en Python.
 Permite a los usuarios jugar contra la computadora o entre dos jugadores (multijugador), 
 siguiendo las reglas tradicionales. 
-Cada jugador selecciona su opción en cada partida, y el programa decide qui�n gana 
+Cada jugador selecciona su opción en cada partida, y el programa decide quién gana 
 según las reglas tradicionales. 
 Se pueden jugar múltiples partidas y lleva estadisticas para mostrar un resumen de los resultados.
 
