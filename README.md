@@ -2,51 +2,51 @@
  
 JUEGO DE PIEDRA, PAPEL O TIJERAS 
 
-DESCRIPCIîN
-Este proyecto es un juego cl‡sico de Piedra, Papel o Tijera desarrollado en Python.
+DESCRIPCIï¿½N
+Este proyecto es un juego clï¿½sico de Piedra, Papel o Tijera desarrollado en Python.
 Permite a los usuarios jugar contra la computadora o entre dos jugadores (multijugador), 
 siguiendo las reglas tradicionales. 
-Cada jugador selecciona su opci—n en cada partida, y el programa decide quiŽn gana 
-segœn las reglas tradicionales. 
-Se pueden jugar mœltiples partidas y lleva estad’sticas para mostrar un resumen de los resultados.
+Cada jugador selecciona su opciï¿½n en cada partida, y el programa decide quiï¿½n gana 
+segï¿½n las reglas tradicionales. 
+Se pueden jugar mï¿½ltiples partidas y lleva estadï¿½sticas para mostrar un resumen de los resultados.
 
 
 COMO SE JUEGA
-Al ejecutar el programa muestra un menœ principal con opciones para jugar, ver reglas o salir.
+Al ejecutar el programa muestra un menï¿½ principal con opciones para jugar, ver reglas o salir.
 - Al elegir jugar, el usuario selecciona si quiere jugar contra la computadora o en modo multijugador.
 - Se piden los nombres de los jugadores.
-- El usuario decide si quiere definir un nœmero fijo de partidas o jugar indefinidamente hasta terminar.
-- En cada partida, los jugadores seleccionan Piedra (1), Papel (2) o Tijera (3). En multijugador, las elecciones se ingresan ocultas para que no se vean entre s’.
+- El usuario decide si quiere definir un nï¿½mero fijo de partidas o jugar indefinidamente hasta terminar.
+- En cada partida, los jugadores seleccionan Piedra (1), Papel (2) o Tijera (3). En multijugador, las elecciones se ingresan ocultas para que no se vean entre sï¿½.
 - El programa determina y muestra el ganador de cada partida o si fue empate.
 
 Al finalizar todas las partidas, se muestra un resumen con el total de partidas ganadas, perdidas y empatadas por cada jugador.
-Luego el jugador puede elegir jugar m‡s, ver estad’sticas u ordenar salir.
+Luego el jugador puede elegir jugar mï¿½s, ver estadï¿½sticas u ordenar salir.
 
 COMO EJECUTAR EL PROGRAMA
 1. Instalar Python 3.x en el equipo.
 2. Ejecutar el programa desde una terminal o consola con el comando: python nombre_del_archivo.py
-3. Seguir las instrucciones que aparecen en pantalla para navegar por los menœs y jugar.
+3. Seguir las instrucciones que aparecen en pantalla para navegar por los menï¿½s y jugar.
 
 
 PRINCIPALES FUNCIONALIDADES DEL CODIGO
-- Tiene un menœ principal con opciones para jugar, ver reglas o salir.
+- Tiene un menï¿½ principal con opciones para jugar, ver reglas o salir.
 
-- Muestra un menœ dentro del juego para elegir modo de juego (computadora o multijugador) y ver estad’sticas.
+- Muestra un menï¿½ dentro del juego para elegir modo de juego (computadora o multijugador) y ver estadï¿½sticas.
 
-- Validaci—n de entradas para opciones del menœ y jugadas v‡lidas.
+- Validaciï¿½n de entradas para opciones del menï¿½ y jugadas vï¿½lidas.
 
-- Incluye la entrada oculta para selecci—n de jugadas en modo multijugador (usando getpass).
+- Incluye la entrada oculta para selecciï¿½n de jugadas en modo multijugador (usando getpass).
 
-- Tiene generaci—n aleatoria de jugadas de la computadora.
+- Tiene generaciï¿½n aleatoria de jugadas de la computadora.
 
-- Tiene control de mœltiples partidas con opci—n a definir nœmero o jugar indefinidamente.
+- Tiene control de mï¿½ltiples partidas con opciï¿½n a definir nï¿½mero o jugar indefinidamente.
 
-- Muestra el c‡lculo y despliegue de estad’sticas detalladas por jugador (ganadas, perdidas, empates).
+- Muestra el cï¿½lculo y despliegue de estadï¿½sticas detalladas por jugador (ganadas, perdidas, empates).
 
-- Posee un flujo de control estructurado con ciclos para mantener el programa activo segœn elecci—n del usuario.
+- Posee un flujo de control estructurado con ciclos para mantener el programa activo segï¿½n elecciï¿½n del usuario.
 
 OBJETIVO DEL PROGRAMA
-El objetivo es ofrecer una implementaci—n completa y did‡ctica de Piedra, Papel o Tijera en Python, aplicando estructuras de control, manejo de funciones, validaci—n de datos y l—gica de juego. Se busca que el usuario viva una experiencia de juego completa y pueda entender un ejemplo pr‡ctico de programaci—n modular.
+El objetivo es ofrecer una implementaciï¿½n completa y didï¿½ctica de Piedra, Papel o Tijera en Python, aplicando estructuras de control, manejo de funciones, validaciï¿½n de datos y lï¿½gica de juego. Se busca que el usuario viva una experiencia de juego completa y pueda entender un ejemplo prï¿½ctico de programaciï¿½n modular.
 Video explicativo:
 Muestra el funcionamiento del juego, cÃ³mo se juega y las caracterÃ­sticas tÃ©cnicas implementadas.
 
@@ -55,11 +55,8 @@ ESTRUCTURA DEL REPOSITORIO:
 2. README.md
 3. Diagrama de flujo del programa
 
-ExplicaciÃ³n teÃ³rica: 
-[Ver video aquÃ­](https://mailinternacionaledu-my.sharepoint.com/:v:/g/personal/wepanoragu_uide_edu_ec/EZIQ1VXLPZNMtZ7j-QAFi-YBf3SZwb_OMAN1G_40hBQoag)
+ExplicaciÃ³n : 
+[Ver video aquÃ­](https://mailinternacionaledu-my.sharepoint.com/:v:/g/personal/wepanoragu_uide_edu_ec/Eb8eWNkIRMZAm_6PeT-YB3UBvBdnA4eqfzLMQ_GW2YFLoQ?e=4C8c3m)
 
-
-ExplicaciÃ³n del cÃ³digo: 
-[Ver video aquÃ­](https://mailinternacionaledu-my.sharepoint.com/:v:/g/personal/wepanoragu_uide_edu_ec/EYwiCcSuGF5LuJ6-l391eXUBoFgj-nXQh0JoCeIuahI-dQ)
 
  ðŸ‘¤ Autor: Wendy Nayeli PaÃ±ora Guevara
