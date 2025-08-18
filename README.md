@@ -1,4 +1,4 @@
-##Descripción del juego
+
  
 JUEGO DE PIEDRA, PAPEL O TIJERAS 
 
